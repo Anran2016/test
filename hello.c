@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("hello, Wang!\n")
+    int i=83;
+    printf("hello, Wang%d!\n",i);
     return;
 }
